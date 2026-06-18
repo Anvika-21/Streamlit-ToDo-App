@@ -1,6 +1,6 @@
 Streamlit To-Do List Web App
 
-![App Screenshot](todo_app.png)
+![App Screenshot](Todo_List.png)
 
 
 
